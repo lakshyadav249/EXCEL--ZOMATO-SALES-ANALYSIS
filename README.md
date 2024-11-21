@@ -16,7 +16,7 @@ The following Questions/outcomes were available after the Porject completion :
 
 2)What is the total no. of attributes present in the data?
 
-3)How many categorical columns are there in the data? [Search about categorical and continuous data, and try to answer this question]
+3)How many categorical columns are there in the data? 
 
 4)The data consists of some inconsistent and missing values so ensure that the data used for further analysis is cleaned.
 
@@ -34,7 +34,7 @@ The following Questions/outcomes were available after the Porject completion :
 
 11)Using Conditional formatting highlight the rows of restaurants that are located in the countries or cities that you’ve suggested to the management for opening new restaurants. 
 
-12)Create a new customized price column that consists of the abbreviation/symbol of the currency along with the Average_cost_for_two value. [Use string operations to do this task]
+12)Create a new customized price column that consists of the abbreviation/symbol of the currency along with the Average_cost_for_two value. 
 
 13)How can you create an array formula in Excel or Google Sheets to count the number of restaurants listed that do not offer online delivery, are in the lowest price range, and have an average cost for two people less than or equal to 250 Indian Rupees?
 
