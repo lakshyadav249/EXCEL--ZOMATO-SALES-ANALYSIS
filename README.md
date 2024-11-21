@@ -10,7 +10,7 @@ This project is all about worldwide Zomato Market and its services availability 
 
 The following Questions/outcomes were available after the Porject completion :
 
-<h3><B>Objective Questions:</B></h3>
+<h2><B>Objective Questions:</B></h2>
 
 1)What is the total no. of tables present in the data?
 
