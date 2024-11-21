@@ -40,7 +40,7 @@ The following Questions/outcomes were available after the Porject completion :
 
 
 
-Subjective Question:
+<h2><b>Subjective Question:</b></h2>
 
 1)Suggest a few countries where the team can open newer restaurants with lesser competition. Which visualization/technique will you use here to justify the suggestions?
 
